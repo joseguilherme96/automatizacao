@@ -1,3 +1,3 @@
 # Atualização de preços em sistema ERP 
 # ![alt](https://github.com/joseguilherme96/automatizacao/blob/main/atualizacao-precos-sistema-erp/processo.png)
- Após o calculo do aumento do produto na planilha do lado direito conforme imagem acima, os dados foram inseridos em uma matriz do vba, logo em seguida, foi implementado junto ao restante do código, onde possui um loop resposável por percorrer a matriz, encontrando o produto e o novo preço que será inserido no sistema.
+ Após o cálculo do aumento do produto conforme planilha do lado direito na imagem acima, os dados foram inseridos em uma matriz vba, logo em seguida, foi implementado junto ao restante do código, onde possui um loop responsável por percorrer a matriz, encontrando o produto e o novo preço que será inserido no sistema.
